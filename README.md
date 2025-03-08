@@ -5,8 +5,11 @@ A aplicação Web/software foi desenvolvida para a disciplina de Projeto Integra
 Alunos desenvolvendores:
 
 Arthur Brantes de Lima,
+
 Bruna Karina Pacheco,
+
 Luana de Oliveira Dias, 
+
 Luís Paulo da Silva de Siqueira.
 
 Professora orientadora: 
