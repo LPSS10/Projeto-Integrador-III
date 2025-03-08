@@ -2,6 +2,17 @@
 
 A aplicação Web/software foi desenvolvida para a disciplina de Projeto Integrador III da UNIVESP, o site tem como objetivo ajudar os alunos a encontrar vagas de estágio, assim possibilitando mais oportunidades de trabalho.
 
+Alunos desenvolvendores:
+
+Arthur Brantes de Lima,
+Bruna Karina Pacheco,
+Luana de Oliveira Dias, 
+Luís Paulo da Silva de Siqueira.
+
+Professora orientadora: 
+
+Emilia Mori Sarti Fernandes. 
+
 Descrição tecnica fornecida pela universidade:
 
 Tema do PI
@@ -18,3 +29,5 @@ Descrição da aplicação dos requisitos da disciplina PI III aplicados no dese
 6. Inclua controle de versão e integração contínua: Ambos os requisitos foram atendindos com a utilização do GIT e do GitHUb.
 7. Incluir testes: requisito atendindo com a utilização de teste manual utilizando a ferramenta de desenvolvedor do Google Chrome utilizando o F12 para testar o tamanho das telas em equipamentos diferentes, os scripts em execução, bem como, a verificação de erros.
 8. Incluir um dos seguintes requisitos: uso e fornecimento de API, análises de dados e IoT: requisito atendindo utilizando a análises de dados com linguagem Python utilizado as Bibliotecas: Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels.
+
+
